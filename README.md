@@ -1,11 +1,14 @@
+<p align="center"><img src="https://github.com/zexceed12300/php-daisy-template/blob/master/.github/image.png?raw=true" alt="Oh My Zsh"></p>
+
 # php-daisy-template
 PHP Native with tailwindcss and daisyUI project template. Simple to use, don't waste your time just to setup Tailwindcss and daisyUI on your every project.
 ## HowTo Install
 
-Clone template and open vscode
+Clone template and open project
 
 ```
-git clone github.com/zexceed12300/php-daisy-template 
+git clone github.com/zexceed12300/php-daisy-template
+cd php-daisy-template
 ```
 
 Install dependencies
