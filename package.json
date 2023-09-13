@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "daisyui": "^3.7.3",
+    "tailwindcss": "^3.3.3"
+  },
+  "scripts": {
+    "start": "php -S 127.0.0.1:3000 -t src/",
+    "tailwindcss": "npx tailwindcss -i ./src/input.css -o ./src/style.css --watch",
+    "dev": "start npm run start && start npm run tailwindcss"
+  }
+}

@@ -1,0 +1,7 @@
+/*
+	Don't remove, it's used to import tailwindcss
+*/
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
